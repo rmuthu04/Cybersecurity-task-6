@@ -23,27 +23,22 @@ Website: https://passwordmeter.com
 Password 1: muthu123  
 • Strength: Weak (< 1 second to crack)  
 • Reason: Very short, predictable, common pattern  
-[ Screenshot Placeholder: Insert screenshot of result here ]
 
 Password 2: Muthu@2003  
 • Strength: Medium  
 • Reason: Mixed characters but uses name and year (predictable)  
-[ Screenshot Placeholder ]
 
 Password 3: Muthu@2003!  
 • Strength: Strong  
 • Reason: Better complexity with extra special character but still pattern-based  
-[ Screenshot Placeholder ]
 
 Password 4: MuthuKumaran@2003#  
 • Strength: Strong / Very Strong  
 • Reason: Long length improves security but contains personal info  
-[ Screenshot Placeholder ]
 
 Password 5: My$ecureP@ssw0rd!2025  
 • Strength: Very Strong  
 • Reason: Long, random, mixed charset, not based on personal identity  
-[ Screenshot Placeholder ]
 
 5) ANALYSIS / DISCUSSION  
 From the experiment, it is clear that:  
